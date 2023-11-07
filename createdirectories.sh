@@ -1,2 +1,2 @@
-#!/usr/bin/bash
+#!/bin/bash
 hdfs dfs -mkdir -p /holbies/input;
