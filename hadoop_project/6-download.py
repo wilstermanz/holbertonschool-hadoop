@@ -17,6 +17,6 @@ def download(l):
 if __name__ == "__main__":
     l = ["/holbies/input/lao.txt"]
     download(l)
-    lao =  open("/tmp/lao.txt", "r")
+    lao = open("/tmp/lao.txt", "r")
     print(lao.read())
     lao.close()
